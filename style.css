@@ -1,0 +1,28 @@
+body {
+  display:flex;
+}
+.container{
+    /* justify-content: center;
+    align-content: center; */
+    background-color: blue;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    width: 400px;
+    border-radius: 10px;
+  
+    
+}
+.digital-clock {
+    background-color: black;
+    padding: 15px 5px 15px 30px;
+    color: white;
+    width: 350px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size:50px;
+    
+  
+}
+
